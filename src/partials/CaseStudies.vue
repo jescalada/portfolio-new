@@ -41,7 +41,6 @@
               <h3 class="h4 mb-2">
                 <a
                   class="hover:text-gray-100 transition duration-150 ease-in-out"
-                  v-scroll-to="'#cta'"
                   >Bookmarkr</a
                 >
               </h3>
@@ -61,7 +60,7 @@
             data-aos-delay="200"
             @click="openInNewTab('https://loopstudios-ca.netlify.app/')"
           >
-            <a class="block" v-scroll-to="'#cta'">
+            <a class="block">
               <figure class="relative h-0 pb-9/16 overflow-hidden">
                 <img
                   class="absolute inset-0 w-full h-full object-cover transform hover:scale-105 transition duration-700 ease-out"
@@ -94,7 +93,7 @@
             data-aos-delay="400"
             @click="openInNewTab('https://cliply.netlify.app/')"
           >
-            <a class="block" v-scroll-to="'#cta'">
+            <a class="block">
               <figure class="relative h-0 pb-9/16 overflow-hidden">
                 <img
                   class="absolute inset-0 w-full h-full object-cover transform hover:scale-105 transition duration-700 ease-out"
@@ -141,7 +140,7 @@
             class="flex flex-col h-full hover:cursor-pointer"
             data-aos="fade-up"
           >
-            <a class="block" v-scroll-to="'#cta'">
+            <a class="block">
               <figure class="relative h-0 pb-9/16 overflow-hidden">
                 <img
                   class="absolute inset-0 w-full h-full object-cover transform hover:scale-105 transition duration-700 ease-out"
@@ -180,7 +179,7 @@
             data-aos="fade-up"
             data-aos-delay="200"
           >
-            <a class="block" v-scroll-to="'#cta'">
+            <a class="block">
               <figure class="relative h-0 pb-9/16 overflow-hidden">
                 <img
                   class="absolute inset-0 w-full h-full object-cover transform hover:scale-105 transition duration-700 ease-out"
@@ -214,7 +213,7 @@
             data-aos="fade-up"
             data-aos-delay="400"
           >
-            <a class="block" v-scroll-to="'#cta'">
+            <a class="block">
               <figure class="relative h-0 pb-9/16 overflow-hidden">
                 <img
                   class="absolute inset-0 w-full h-full object-cover transform hover:scale-105 transition duration-700 ease-out"
