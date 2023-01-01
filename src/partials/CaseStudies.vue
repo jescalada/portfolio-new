@@ -4,7 +4,7 @@
       <div class="py-12 md:py-16 border-t border-gray-800">
         <!-- Section header -->
         <div class="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-          <h2 class="h2 mb-4 text-blue-900">Portolio</h2>
+          <h2 class="h2 mb-4 text-blue-900">Portfolio</h2>
           <p class="text-xl text-slate-600">
             These are some of the projects I worked on with clients.
           </p>
